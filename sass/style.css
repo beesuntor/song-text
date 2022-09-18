@@ -1,0 +1,18 @@
+.song-title {
+    font-size: 45px;
+    text-align: left;
+    padding-left: 35%;
+    font-family: 'Inconsolata', monospace;
+
+}
+
+.text {
+    font-size: 22px;
+    text-align: left;
+    padding-left:35%;
+    font-family: "Signika", sans-serif;
+}
+
+.chorus {
+    font-style: italic;
+}
