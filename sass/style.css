@@ -23,3 +23,9 @@
     font-style: oblique;
     margin:0 20% 0 35%;
 }
+
+body {
+    background-image: url(https://i.postimg.cc/Z5RMzqNS/pexels-eva-bronzini-7598248.jpg);
+    background-position: center center;
+    background-size: cover;
+}
