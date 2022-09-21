@@ -1,16 +1,16 @@
 .song-title {
     font-size: 45px;
     text-align: left;
-    padding-left: 35%;
     font-family: 'Inconsolata', monospace;
+    margin:0 20% 0 35%;
 
 }
 
 .text {
     font-size: 22px;
     text-align: left;
-    padding-left:35%;
     font-family: "Signika", sans-serif;
+    margin:0 20% 0 35%;
 }
 
 .chorus {
@@ -21,5 +21,5 @@
     text-align: right;
     font-size: 22px;
     font-style: oblique;
-    padding-right: 20%;
+    margin:0 20% 0 35%;
 }
